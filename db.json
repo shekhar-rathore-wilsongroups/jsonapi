@@ -1,4 +1,4 @@
-  {
+  [{
     "albumId": 1,
     "id": 1,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
@@ -26,3 +26,4 @@
     "url": "https://via.placeholder.com/600/d32776",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776"
   }
+]
